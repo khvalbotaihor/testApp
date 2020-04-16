@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+  }
+  
+  button{
+    background-color: #008000;
+    border-color: #008000;
+  }
+
+  button:hover {
+    background-color: rgb(166, 255, 0);
+    cursor: pointer;
+  }
+  input{
+    border-color: #ff0000;
+  }
+  .padding_10{
+    padding: 10px;
+  }
+  .margin_10{
+    margin: 10px;
+  }
+  .text_align_center{
+    text-align: center;
+  }
